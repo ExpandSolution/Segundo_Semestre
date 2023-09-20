@@ -169,14 +169,14 @@ User stories
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-<div>Proficiência em inglês.</div>
-<div>Excel avançado.</div>
-<div>Gestão de pessoas.</div>
-<div>Gestão de projetos.</div>
-<div>Edição de imagens.</div>
-<div>Operação de máquinas e sistemas.</div>
-<div>Conhecimento em análise de dados.</div>
-<div>Raciocínio analítico.</div>
+<div>Proficiência em inglês;</div>
+<div>Excel avançado;</div>
+<div>Gestão de pessoas;</div>
+<div>Gestão de projetos;</div>
+<div>Edição de imagens;</div>
+<div>Operação de máquinas e sistemas;</div>
+<div>Conhecimento em análise de dados;</div>
+<div>Raciocínio analítico;</div>
 <div>Manuseio de ferramentas.</div>
   
 | Tecnologia/Metodologia | Classificação |
@@ -191,18 +191,18 @@ User stories
 </details>
 
 ## Soft Skill (saber comportamental)
-<div>Comunicação eficaz.</div>
-<div>Escrita.</div>
-<div>Empatia.</div>
-<div>Colaboração.</div>
-<div>Organização.</div>
-<div>Flexibilidade.</div>
-<div>Resiliência.</div>
-<div>Capacidade de Resolver Problemas.</div>
-<div>Pensamento criativo.</div>
-<div>Relacionamento interpessoal.</div>
-<div>Liderança.</div>
-<div>Negociação.</div>
+<div>Comunicação eficaz;</div>
+<div>Escrita;</div>
+<div>Empatia;</div>
+<div>Colaboração;</div>
+<div>Organização;</div>
+<div>Flexibilidade;</div>
+<div>Resiliência;</div>
+<div>Capacidade de Resolver Problemas;</div>
+<div>Pensamento criativo;</div>
+<div>Relacionamento interpessoal;</div>
+<div>Liderança;</div>
+<div>Negociação;</div>
 <div>Ética.</div>
 
 | Habilidades | Classificação |
