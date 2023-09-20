@@ -83,7 +83,7 @@ Exemplos:
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
-- Backlog
+- Backlog 
 - [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
 - MVP
 - [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
@@ -108,16 +108,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 Regras de Negócio
 - 
 
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+Requisitos funcionais:
+- Conteúdo da apresentação;
+- Relatórios;
+- Experiência do usuário ao oferecer algo mais (UX).
 
   
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
+Requisitos não funcionais:
+- Usar tecnologias especifícas/apoio/tecnológicas;
+- Metodologias ágil;
+- Power BI / Jira / Canvas.
   
 User stories
 
