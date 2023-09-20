@@ -73,8 +73,8 @@ Adicionar video e documentos nessa seção
   ### Produto 
   > Descreva aqui a parte do MVP referente a Sprint
 
- ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
+ ### Tecnologias Específicas/Apoio
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 Exemplos: 
 - [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
 - [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
