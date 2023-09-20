@@ -52,7 +52,7 @@ Futuramente
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:!
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
