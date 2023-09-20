@@ -63,7 +63,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 
 Adicionar video e documentos nessa seção
 
