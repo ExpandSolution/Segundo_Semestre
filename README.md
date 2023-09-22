@@ -129,13 +129,15 @@ User stories
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Documentação Sprint 1;
+- [ ] Pegar dados indicadores geral, de Importação e Exportação do Estado de SP;
+- [ ] Identificar os modais utilizados nos trâmites internacionais de movimento de carga;
+- [ ] Montar tabela relacional com base nos dados;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar a origem, via e URF. Com eles no formato de código.
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] Monitoramento e ajustes.
       
 ## Sprint 2. Implementação
-- [ ] 
+- [ ] Documentação Sprint 2;
 - [ ] 
 - [ ] 
 - [ ] 
@@ -146,7 +148,7 @@ User stories
 - [ ] 
       
 ## Sprint 3. Operacionalização
-- [ ] 
+- [ ] Documentação Sprint 3;
 - [ ] 
 - [ ] 
 - [ ] 
@@ -160,18 +162,18 @@ User stories
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-<div>Proficiência em inglês;</div>
-<div>Excel avançado;</div>
+<div>Proficiência em Inglês;</div>
+<div>Excel Avançado;</div>
 <div>Gestão de Pessoas;</div>
 <div>Gestão de Projetos;</div>
 <div>Edição de Imagens;</div>
 <div>Operação de Sistemas;</div>
 <div>Conhecimento em Análise de dados;</div>
 <div>Raciocínio Analítico;</div>
-<div>Manuseio de Ferramentas.</div>
-<div>GitHub.</div>
-<div>Scrum Master.</div>
-<div>Product Owner.</div>
+<div>Manuseio de Ferramentas;</div>
+<div>GitHub;</div>
+<div>Scrum Master;</div>
+<div>Product Owner;</div>
 <div>Markdown.</div>
   
 | Tecnologia/Metodologia | Classificação |
