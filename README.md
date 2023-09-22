@@ -18,9 +18,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
+O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Produto Viável (MVP), seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal, disponível no site da Fatec SJC, com definição das datas do Kickoff e das Sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -51,13 +49,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+O Projeto tem como objetivo, identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e realizar a geografia dos fluxos de cargas, de importação e exportação, para que possa ser desenvolvido um dashboard interativo que permita fazer uma análise de dados.
 
 # Funcionalidades e Registros das Sprints
 
@@ -72,9 +65,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias Específicas/Apoio
 
 * 5W2H;
-* Jira Software:
-* Power BI:
-* GitHub.
+* GitHub;
+* Jira Software;
+* Miro;
+* Power BI;
+* Scrum;
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
@@ -133,33 +128,33 @@ User stories
 - [x] Criação do Backlog da Equipe;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
+- [ ] Documentação Sprint 1;
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] Monitoramento e ajustes.
       
 ## Sprint 2. Implementação
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
       
 ## Sprint 3. Operacionalização
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 # Competências desenvolvidas
@@ -167,13 +162,17 @@ User stories
 ## Hard Skill (saber tecnológico)
 <div>Proficiência em inglês;</div>
 <div>Excel avançado;</div>
-<div>Gestão de pessoas;</div>
-<div>Gestão de projetos;</div>
-<div>Edição de imagens;</div>
-<div>Operação de máquinas e sistemas;</div>
-<div>Conhecimento em análise de dados;</div>
-<div>Raciocínio analítico;</div>
-<div>Manuseio de ferramentas.</div>
+<div>Gestão de Pessoas;</div>
+<div>Gestão de Projetos;</div>
+<div>Edição de Imagens;</div>
+<div>Operação de Sistemas;</div>
+<div>Conhecimento em Análise de dados;</div>
+<div>Raciocínio Analítico;</div>
+<div>Manuseio de Ferramentas.</div>
+<div>GitHub.</div>
+<div>Scrum Master.</div>
+<div>Product Owner.</div>
+<div>Markdown.</div>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -187,7 +186,7 @@ User stories
 </details>
 
 ## Soft Skill (saber comportamental)
-<div>Comunicação eficaz;</div>
+<div>Comunicação Eficaz;</div>
 <div>Escrita;</div>
 <div>Empatia;</div>
 <div>Colaboração;</div>
@@ -195,8 +194,8 @@ User stories
 <div>Flexibilidade;</div>
 <div>Resiliência;</div>
 <div>Capacidade de Resolver Problemas;</div>
-<div>Pensamento criativo;</div>
-<div>Relacionamento interpessoal;</div>
+<div>Pensamento Criativo;</div>
+<div>Relacionamento Interpessoal;</div>
 <div>Liderança;</div>
 <div>Negociação;</div>
 <div>Ética.</div>
