@@ -121,42 +121,41 @@ User stories
 - [x] Identifique os elementos principais;
 - [x] Pergunta do P.O ao cliente;
 - [x] Organização do Jira Software;
-- [x] Elaboração do Miro;
+- [x] Criação do brainstorming no Miro;
 - [x] 5W2H;
-- [x] Construção do Burndown;
+- [x] Construção do Gráfico Burndown;
 - [x] Documentação da Sprint 0;
 - [x] Criação do Backlog da Equipe;
+- [x] Elaboração do Backlog individual;
+- [x] Definir quem vai trabalhar com cada professor;
+- [x] Estruturar a documentação do GitHub e Jira Software;
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Documentação Sprint 1;
-- [ ] Pegar dados indicadores geral, de Importação e Exportação do Estado de SP;
+- [ ] Pegar dados indicadores gerais, de Importação e Exportação do Estado de SP;
 - [ ] Identificar os modais utilizados nos trâmites internacionais de movimento de carga;
 - [ ] Montar tabela relacional com base nos dados;
 - [ ] Monitoramento e ajustes dos dados;
-- [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar a origem, via e URF. Com eles no formato de código.
-- [ ] 
+- [ ] Montar um mapa, com as principais localidades de processamento das Importações e Exportações de SP;
+- [ ] Escolher o produto, para buscar os dados solicitados do cliente;
       
 ## Sprint 2. Implementação
 - [ ] Documentação Sprint 2;
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar origem, via e URF, com eles no formato de código;
+- [ ] Escolher um município para ter um foco relacionado as informações de importação e exportação, com o SH4;
+- [ ] Identificar oportunidades para melhorias no município, nas atividades de exportação e importação;
+- [ ] Relacionar dados de movimentação de carga da cidade de São José dos Campos;
+- [ ] Relacionar dados de movimentação de carga da cidade de São Paulo;
+- [ ] Relacionar dados de movimentação de carga da cidade de Jundiaí;
+- [ ] Relacionar dados de movimentação de carga da cidade de Campinas;
+- [ ] Relacionar dados de movimentação de carga da cidade de Paulínia;
       
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Power BI que detalhe o possível Fluxo Logístico de Exportação de uma carga originária de SJC;
+- [ ] Identificar o principal destino dos produtos;
+- [ ] Desenvolver a Geografia do Fluxo de carga para importação e exportação com Dashboard interativo;
+
 
 
 # Competências desenvolvidas
