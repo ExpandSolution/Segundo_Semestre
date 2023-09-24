@@ -92,10 +92,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-[WhatsApp Image 2023-09-24 at 01 04 33](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/de284592-bca1-47b3-bf97-96eaa4d8bf9e)
-
-[WhatsApp Image 2023-09-24 at 01 04 34](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/96f82947-6507-4bdc-b037-f3a0e39bddc4)
-
+![product backlog]([WhatsApp Image 2023-09-24 at 01 04 33](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/41f4f6d7-b928-4d83-b466-120ac45be93a)
+)
+![sprint backlog]([WhatsApp Image 2023-09-24 at 01 04 34](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/f25e4db3-005f-491a-969e-0da91f7cd9e8)
+)
 </div>
 
 Regras de Negócio
