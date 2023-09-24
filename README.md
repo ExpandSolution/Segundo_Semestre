@@ -164,7 +164,7 @@ User stories
 
 # Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
+## Hard Skill (Saber Tecnológico)
 
   
 | Tecnologia/Metodologia | Classificação |
@@ -185,7 +185,7 @@ User stories
  
 </details>
 
-## Soft Skill (saber comportamental)
+## Soft Skill (Saber Comportamental)
 
 
 | Habilidades | Classificação |
