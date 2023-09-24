@@ -74,8 +74,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
   
  ### Mindset Digital
  
-- Backlog 
-- [![Backlog](![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9511c491-a8c3-42ac-a214-d67f6730f661)
+- Backlog ![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9511c491-a8c3-42ac-a214-d67f6730f661)
   
 
 # Cronograma das Sprints
