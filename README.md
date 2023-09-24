@@ -86,7 +86,7 @@ Exemplos:
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(5W2H 2° Semestre.xlsx](https://github.com/ExpandSolution/Segundo_Semestre/blob/e63d6f3e25fc2bf9b2caef025a8e249dc5ff6fd7/Documentos/5w2h.md)]
+#### Cronograma das Sprints[(5W2H 2° Semestre.xlsx](https://github.com/ExpandSolution/Segundo_Semestre/blob/1600e0662b0a239572ce7bc5dd362061a122175d/Documentos/5w2h.md)]
 
 # Backlog do produto
   
