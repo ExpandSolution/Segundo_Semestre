@@ -23,7 +23,7 @@ O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023 | concluído|  | 
-|00| 27/09/2023 | em progresso|  | 
+|00| 25/09/2023 | em progresso|  | 
 |01|  18/10/2023| a fazer | | 
 |02| 08/11/2023 | a fazer| | 
 |03| 29/11/2023 |a fazer |  | 
@@ -60,7 +60,9 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  <p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
  ### Tecnologias Específicas/Apoio
 
@@ -68,18 +70,14 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 * GitHub;
 * Jira Software;
 * Miro;
-* Power BI;
 * Scrum;
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
 Exemplos: 
 - Backlog 
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+- [![Backlog](![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9511c491-a8c3-42ac-a214-d67f6730f661)
+)]
 
 # Cronograma das Sprints
 
