@@ -73,11 +73,10 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 * Scrum;
   
  ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
+ 
 - Backlog 
 - [![Backlog](![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9511c491-a8c3-42ac-a214-d67f6730f661)
-)]
+  
 
 # Cronograma das Sprints
 
@@ -101,15 +100,15 @@ Regras de Negócio
 - 
 
 Requisitos funcionais:
-- Conteúdo da apresentação;
-- Relatórios;
-- Experiência do usuário ao oferecer algo mais (UX).
 
+- Conteúdo da Apresentação
+- Relatórios
   
 Requisitos não funcionais:
-- Usar tecnologias especifícas/apoio/tecnológicas;
-- Metodologias ágil;
-- Power BI / Jira / Canvas.
+
+- Usar tecnologias especifícas/apoio/tecnológicas
+- Metodologias Ágil
+- Excel / Jira / Canvas/ 5W2H
   
 User stories
 
