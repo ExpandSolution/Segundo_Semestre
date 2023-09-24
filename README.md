@@ -92,9 +92,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](![WhatsApp Image 2023-09-24 at 01 04 33](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/de284592-bca1-47b3-bf97-96eaa4d8bf9e)
+(![WhatsApp Image 2023-09-24 at 01 04 33](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/de284592-bca1-47b3-bf97-96eaa4d8bf9e)
 
-![sprint backlog](![WhatsApp Image 2023-09-24 at 01 04 34](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/96f82947-6507-4bdc-b037-f3a0e39bddc4)
+[WhatsApp Image 2023-09-24 at 01 04 34](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/96f82947-6507-4bdc-b037-f3a0e39bddc4)
 
 </div>
 
