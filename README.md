@@ -116,7 +116,8 @@ Requisitos não funcionais:
 User stories
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![Imagem1](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/d392b489-b009-4654-adb2-0e5dd75ad953)
+
 
 
 ## Sprint 0. Concepção
