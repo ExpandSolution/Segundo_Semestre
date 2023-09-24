@@ -165,55 +165,45 @@ User stories
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-<div>Proficiência em Inglês;</div>
-<div>Excel Avançado;</div>
-<div>Gestão de Pessoas;</div>
-<div>Gestão de Projetos;</div>
-<div>Edição de Imagens;</div>
-<div>Operação de Sistemas;</div>
-<div>Conhecimento em Análise de dados;</div>
-<div>Raciocínio Analítico;</div>
-<div>Manuseio de Ferramentas;</div>
-<div>GitHub;</div>
-<div>Scrum Master;</div>
-<div>Product Owner;</div>
-<div>Markdown.</div>
+
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Conhecimento em Análise de dados | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Edição de Imagens | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Excel Avançado | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Pessoas | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Operação de Sistemas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Manuseio de Ferramentas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Product Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Proficiência em Inglês | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Raciocínio Analítico | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
 ## Soft Skill (saber comportamental)
-<div>Comunicação Eficaz;</div>
-<div>Escrita;</div>
-<div>Empatia;</div>
-<div>Colaboração;</div>
-<div>Organização;</div>
-<div>Flexibilidade;</div>
-<div>Resiliência;</div>
-<div>Capacidade de Resolver Problemas;</div>
-<div>Pensamento Criativo;</div>
-<div>Relacionamento Interpessoal;</div>
-<div>Liderança;</div>
-<div>Negociação;</div>
-<div>Ética.</div>
+
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
+| Capacidade de Resolver Problemas | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação Eficaz | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Empatia | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Escrita | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Ética | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Flexibilidade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Liderança | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Negociação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Organização | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Pensamento Criativo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Relacionamento Interpessoal | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 </details>
 
