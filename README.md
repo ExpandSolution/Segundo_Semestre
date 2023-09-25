@@ -110,7 +110,6 @@ Requisitos não funcionais:
 - Metodologias Ágil
 - Excel / Jira / Canvas/ 5W2H
   
-User stories
 
 # Burndown 
 ![Burndown](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/dc0c71c8-bae0-402a-8b32-e44794957e61)
