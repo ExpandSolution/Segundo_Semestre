@@ -22,12 +22,12 @@ O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2023 | concluído|  | 
-|00| 25/09/2023 | em progresso|  | 
-|01|  18/10/2023| a fazer | | 
-|02| 08/11/2023 | a fazer| | 
-|03| 29/11/2023 |a fazer |  | 
-|Feira de Soluções|12/12/2023 |a fazer | | 
+|Kick Off | 06/09/2023 | concluído|[Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx)  | 
+|00| 25/09/2023 | em progresso| [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx) | 
+|01|  18/10/2023| a fazer |[Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx) | 
+|02| 08/11/2023 | a fazer| [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx)| 
+|03| 29/11/2023 |a fazer | [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx) | 
+|Feira de Soluções|12/12/2023 |a fazer | [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx)| 
 
 
 # Micro Certificações
