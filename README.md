@@ -112,8 +112,8 @@ Requisitos não funcionais:
   
 User stories
 
-# Burndown
-![Imagem1](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/d392b489-b009-4654-adb2-0e5dd75ad953)
+# Burndown 
+![Burndown](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/dc0c71c8-bae0-402a-8b32-e44794957e61)
 
 
 
