@@ -7,7 +7,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Projeto](#projeto-api)
-* [Micro Certificações](#micro-certificações)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Registros das Sprints](#funcionalidades-e-registros-das-sprints)
@@ -22,19 +21,13 @@ O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2023 | concluído|[Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx)  | 
-|00| 25/09/2023 | em progresso| [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx) | 
-|01|  18/10/2023| a fazer |[Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx) | 
-|02| 08/11/2023 | a fazer| [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx)| 
-|03| 29/11/2023 |a fazer | [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx) | 
-|Feira de Soluções|12/12/2023 |a fazer | [Ver Relatório](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/Relat%C3%B3rio.docx)| 
+|Kick Off | 06/09/2023 | Concluído|  | 
+|00| 25/09/2023 | Concluído|  | 
+|01|  18/10/2023| Em Progresso  | 
+|02| 08/11/2023 | a fazer| | 
+|03| 29/11/2023 |a fazer |  | 
+|Feira de Soluções|12/12/2023 |a fazer | | 
 
-
-# Micro Certificações
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 
 # Equipe
@@ -135,12 +128,14 @@ Requisitos não funcionais:
 - [ ] Pegar dados indicadores gerais, de Importação e Exportação do Estado de SP;
 - [ ] Identificar os modais utilizados nos trâmites internacionais de movimento de carga;
 - [ ] Montar tabela relacional com base nos dados;
+- [ ] Relatório;
 - [ ] Monitoramento e ajustes dos dados;
 - [ ] Montar um mapa, com as principais localidades de processamento das Importações e Exportações de SP;
 - [ ] Escolher o produto, para buscar os dados solicitados do cliente;
       
 ## Sprint 2. Implementação
 - [ ] Documentação Sprint 2;
+- [ ] Relatório;
 - [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar origem, via e URF, com eles no formato de código;
 - [ ] Escolher um município para ter um foco relacionado as informações de importação e exportação, com o SH4;
 - [ ] Identificar oportunidades para melhorias no município, nas atividades de exportação e importação;
@@ -152,6 +147,7 @@ Requisitos não funcionais:
       
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
+- [ ] Relatório;
 - [ ] Power BI que detalhe o possível Fluxo Logístico de Exportação de uma carga originária de SJC;
 - [ ] Identificar o principal destino dos produtos;
 - [ ] Desenvolver a Geografia do Fluxo de carga para importação e exportação com Dashboard interativo;
