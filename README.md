@@ -14,7 +14,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do Produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
 
 # Projeto (API) 
 O Projeto pedagógico é alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Produto Viável (MVP), seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal, disponível no site da Fatec SJC, com definição das datas do Kickoff e das Sprints.
@@ -31,13 +30,16 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-<div> <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/a4d68165-7fef-4029-b3ff-120530e0c509" width="200px" height="200px"/> 
-      <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/81bc0a90-265c-4105-a209-56d4c9c55386" width="200px" height="200px"/>
-      <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/b5744a77-ecd9-48e0-98e8-39b3878a363f" width="200px" height="200px"/>
-      <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/8589f806-1681-4bd9-9822-63d6af4997cd" width="200px" height="200px"/>
-      <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/902ed262-cc16-4958-a251-77b782aaf512" width="200px" height="200px"/>
-      <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/73a89ced-b56f-4aff-9760-cf92ad604e5c" width="200px" height="200px"/>
-      <img src="https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/18d865a8-3aec-4032-80e9-834e1ca1d060" width="200px" height="200px"/>
+<div align="center">
+
+Scrum Master | Product Owner |
+|:------------:|:---------------:|
+<img src="https://github.com/ExpandSolution/a/assets/135040407/94bddcfa-18e1-428e-bdb1-f2d34f597b47" width=115>[<div>Rosimeire Helena</div>](https://github.com/rosiihelena)</div></sub><br><a href="https://www.linkedin.com/in/rosimeire-helena-138a63269/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/bfdfe4e5-812f-47ae-ac72-0466edbcbb83" width=115>[<div>Gabriel Santana</div>](https://github.com/GabrielSTN5)</div></sub><br><a href="https://www.linkedin.com/in/gabriel-santana-027794215/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
+
+Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+<img src="https://github.com/ExpandSolution/a/assets/135040407/16d00c3b-bf64-48c9-aba8-cb2210bc26d9" width=115>[<div>Ana Júlia</div>](https://github.com/AnaJ240)</div></sub><br><a href="https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/bd4be7bb-6506-489e-ac9c-739b8780786d" width=115>[<div>Diego Campos</div>](https://Diegocampos060686)</div></sub><br><a href="https://www.linkedin.com/in/diego-siqueira-56680926b/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/3bc1f82c-aa3e-4541-91a6-90f1443c8819" width=115>[<div>Gabriela Harumi</div>](https://github.com/GabiHarumiGomes)</div></sub><br><a href="https://www.linkedin.com/in/gabriela-harumi-364503183/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/ea3b3563-526d-478a-8cab-7023f1564523" width=115>[<div>Joyce Sena</div>](https://github.com/Joycess)</div></sub><br><a href="https://www.linkedin.com/in/joyce-sena-49918b278/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub> | <img src="https://github.com/ExpandSolution/a/assets/135040407/a9a4ec39-592e-430a-8757-953c13db36e5" width=115>[<div>Rafael Ramirez</div>](https://github.com/Rafaelramirez190185)</div></sub><br><a href="https://www.linkedin.com/in//rafael-ramirez-286553291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=54C5CE&color=292A2D" /></a><sub></sub>
+
 </div>
 
 
