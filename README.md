@@ -54,12 +54,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 </p>
 
 ## Tecnologias Utilizadas
-  ### Produto 
-  <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
- ### Tecnologias Específicas/Apoio
 
 * 5W2H;
 * GitHub;
