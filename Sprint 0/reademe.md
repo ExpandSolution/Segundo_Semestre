@@ -9,7 +9,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Registros das Sprints](#funcionalidades-e-registros-das-sprints)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Cronograma das Sprints](#Cronograma)
 * [Backlog do Produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
@@ -66,13 +65,6 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
  * Backlog
  ![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9511c491-a8c3-42ac-a214-d67f6730f661)
   
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints: [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/5w2h.md)
 
 # Backlog do produto
   
