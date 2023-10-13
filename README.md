@@ -57,10 +57,10 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 
 
 * [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/5w2h.md);
-* GitHub;
-* Jira Software;
-* Miro;
-* Scrum;
+* [GitHub]([link do que vc quer acessar](https://github.com/ExpandSolution));
+* [Jira Software]([https://github.com/ExpandSolution](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1));
+* [Miro]([[https://github.com/ExpandSolution](https://miro.com/app/board/uXjVMn3vxWY=/?share_link_id=312348817278)](https://miro.com/app/board/uXjVMn3vxWY=/?share_link_id=312348817278));
+* [Scrum]([https://github.com/ExpandSolution](https://www.atlassian.com/br/agile/scrum));
   
  ### Mindset Digital
  
