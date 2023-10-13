@@ -72,7 +72,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/5w2h.md)
+#### Cronograma das Sprints: [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/5w2h.md)
 
 # Backlog do produto
   
