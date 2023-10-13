@@ -56,7 +56,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Tecnologias Utilizadas
 
 
-* 5W2H;
+* [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/5W2H%20-%20Sprint%201.xlsx);
 * GitHub;
 * Jira Software;
 * Miro;
