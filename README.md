@@ -60,6 +60,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 * [GitHub](https://github.com/ExpandSolution)
 * [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
+* Power BI;
   
  ### Mindset Digital
  
