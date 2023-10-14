@@ -138,6 +138,9 @@ Requisitos não funcionais:
 - [ ] Relatório;
 - [ ] 5W2H;
 - [ ] Gráfico Burndown;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Protótipo de dashboard da Sprint 2;
+- [ ] Monitoramento e ajustes dos dados;
 - [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar origem, via e URF, com eles no formato de código;
 - [ ] Escolher um município para ter um foco relacionado as informações de importação e exportação, com o SH4;
 - [ ] Identificar oportunidades para melhorias no município, nas atividades de exportação e importação;
@@ -150,7 +153,11 @@ Requisitos não funcionais:
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
 - [ ] Relatório;
-- [ ] 5W2H
+- [ ] 5W2H;
+- [ ] Gráfico Burndown;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Protótipo de dashboard da Sprint 3;
+- [ ] Monitoramento e ajustes dos dados;
 - [ ] Power BI que detalhe o possível Fluxo Logístico de Exportação de uma carga originária de SJC;
 - [ ] Identificar o principal destino dos produtos;
 - [ ] Desenvolver a Geografia do Fluxo de carga para importação e exportação com Dashboard interativo;
