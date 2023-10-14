@@ -56,16 +56,15 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Tecnologias Utilizadas
 
 
-* [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/5w2h.md)
+* [5W2H]()
 * [GitHub](https://github.com/ExpandSolution)
 * [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
-* [Miro](https://miro.com/app/board/uXjVMn3vxWY=/?share_link_id=312348817278)
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
   
  ### Mindset Digital
  
  * Backlog
- ![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9511c491-a8c3-42ac-a214-d67f6730f661)
+ ![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/4822a7f0-a4f2-4a5e-9e83-4be14f6733c2)
   
 
 # Cronograma das Sprints
@@ -73,16 +72,16 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints: [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Documentos/5w2h.md)
+#### Cronograma das Sprints: [5W2H]()
 
 # Backlog do produto
   
 <div align="center">
     
-![product backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/556f298f-d325-4975-99f1-a1d7eb15a059)
+![product backlog]()
 
 
-![sprint backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9b777f8b-f9de-4be4-ae2d-e0f34cb3e5da)
+![sprint backlog]()
 
 </div>
 
@@ -98,11 +97,11 @@ Requisitos não funcionais:
 
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias Ágil
-- Excel / Jira / Canvas/ 5W2H
+- Excel / Jira / 5W2H
   
 
 # Burndown 
-![Burndown](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/dc0c71c8-bae0-402a-8b32-e44794957e61)
+![Burndown]()
 
 
 
@@ -121,21 +120,23 @@ Requisitos não funcionais:
 - [x] Estruturar a documentação do GitHub e Jira Software;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documentação Sprint 1;
-- [ ] Pegar dados indicadores gerais, de Importação e Exportação do Estado de SP;
-- [ ] Identificar os modais utilizados nos trâmites internacionais de movimento de carga;
-- [ ] Montar tabela relacional com base nos dados;
-- [ ] Relatório;
-- [ ] 5W2H;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Montar um mapa, com as principais localidades de processamento das Importações e Exportações de SP;
+- [x] Documentação Sprint 1;
+- [x] Relatório;
+- [x] 5W2H;
+- [x] Gráfico Burndown;
+- [x] Divisão de Atividades no Jira;
+- [ ] Protótipo de dashboard da Sprint 1;
+- [x] Monitoramento e ajustes dos dados;
+- [x] Pegar dados indicadores geral, de Importação e Exportação do Estado de SP;
 - [ ] Identificar os modais utilizados para importação e exportação no estado de São Paulo;
-- [ ] Escolher o produto, para buscar os dados solicitados do cliente;
+- [ ] Montar tabela relacional com base nos dados;
+- [ ] Identificar os modais utilizados nos trâmites internacionais de movimento de cargas;
       
 ## Sprint 2. Implementação
 - [ ] Documentação Sprint 2;
 - [ ] Relatório;
 - [ ] 5W2H;
+- [ ] Gráfico Burndown;
 - [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar origem, via e URF, com eles no formato de código;
 - [ ] Escolher um município para ter um foco relacionado as informações de importação e exportação, com o SH4;
 - [ ] Identificar oportunidades para melhorias no município, nas atividades de exportação e importação;
