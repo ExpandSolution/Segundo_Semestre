@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CBD49&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+A+Expand+Solutions!+:%29)](https://git.io/typing.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+Expand+Solutions!+:%29)](https://git.io/typing.svg)
 
 
 # Aprendizado por Projeto Integrado (API)
@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023 | Concluído|  | 
 |00| 25/09/2023 | Concluído|  | 
-|01|  18/10/2023| Em Progresso  | 
+|01|  25/10/2023| Em Progresso  | 
 |02| 08/11/2023 | a fazer| | 
 |03| 29/11/2023 |a fazer |  | 
 |Feira de Soluções|12/12/2023 |a fazer | | 
@@ -67,27 +67,22 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
 * Power BI;
   
- ### Mindset Digital
- 
- * Backlog
- ![Backlog](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/4822a7f0-a4f2-4a5e-9e83-4be14f6733c2)
   
-
 # Cronograma das Sprints
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints: [5W2H]()
+#### Cronograma das Sprints: 
 
-# Backlog do produto
+# Backlog do Produto
   
 <div align="center">
     
-![product backlog]()
+![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/8ac0607a-49b1-4fcd-8a9c-dc800878bdaa)
 
 
-![sprint backlog]()
+![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/95b6b37d-a797-4821-89d5-27916c32f96a)
 
 </div>
 
@@ -103,7 +98,7 @@ Requisitos não funcionais:
 
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias Ágil
-- Excel / Jira / 5W2H
+- Excel / Jira / 5W2H  / Power BI
   
 
 # Burndown 
@@ -131,12 +126,12 @@ Requisitos não funcionais:
 - [x] 5W2H;
 - [x] Gráfico Burndown;
 - [x] Divisão de Atividades no Jira;
-- [ ] Protótipo de dashboard da Sprint 1;
+- [x] Protótipo de dashboard da Sprint 1;
 - [x] Monitoramento e ajustes dos dados;
 - [x] Pegar dados indicadores geral, de Importação e Exportação do Estado de SP;
-- [ ] Identificar os modais utilizados para importação e exportação no estado de São Paulo;
-- [ ] Montar tabela relacional com base nos dados;
-- [ ] Identificar os modais utilizados nos trâmites internacionais de movimento de cargas;
+- [x] Identificar os modais utilizados para importação e exportação no estado de São Paulo;
+- [x] Montar tabela relacional com base nos dados;
+- [x] Identificar os modais utilizados nos trâmites internacionais de movimento de cargas;
       
 ## Sprint 2. Implementação
 - [ ] Documentação Sprint 2;
