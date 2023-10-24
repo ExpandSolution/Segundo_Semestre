@@ -63,7 +63,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints: 
+#### Cronograma das Sprints: [(Clique Aqui)](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
 
 # Backlog do Produto
   
@@ -91,7 +91,7 @@ Requisitos não funcionais:
   
 
 # Burndown 
-![Burndown]()
+![Burndown](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/0db00cf9-54d6-44eb-ba82-6d2bb450a0d8)
 
 
 
