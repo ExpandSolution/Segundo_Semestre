@@ -51,7 +51,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Tecnologias Utilizadas
 
 
-* [5W2H]()
+* [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Documentos/5W2H%20-%20Sprint%201.md)
 * [GitHub](https://github.com/ExpandSolution)
 * [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
