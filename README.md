@@ -7,11 +7,11 @@ Esse projeto é baseado na metodologia ágil Scrum, onde tudo que aprendemos nas
 * [Projeto](#projeto-api)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Registros das Sprints](#funcionalidades-e-registros-das-sprints)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Cronograma das Sprints](#Cronograma)
 * [Backlog do Produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
+* [Funcionalidades e Registros das Sprints](#funcionalidades-e-registros-das-sprints)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
 # Projeto
@@ -21,9 +21,9 @@ Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023 | Concluído|  | 
 |00| 25/09/2023 | Concluído|  | 
-|01|  25/10/2023| Em Progresso  | 
+|01| 25/10/2023 | Concluído|  | 
 |02| 08/11/2023 | a fazer| | 
-|03| 29/11/2023 |a fazer |  | 
+|03| 29/11/2023 | a fazer|  | 
 |Feira de Soluções|12/12/2023 |a fazer | | 
 
 
@@ -47,11 +47,6 @@ Scrum Team | Scrum Team | Scrum Team | Scrum Team | Scrum Team
 
 O Projeto tem como objetivo, identificar os modais utilizados nos trâmites internacionais de movimentação de cargas e realizar a geografia dos fluxos de cargas, de importação e exportação, para que possa ser desenvolvido um dashboard interativo que permita fazer uma análise dos dados. O dashboard deve conter de forma clara uma visão de qual modal mais utilizado, dos custos que esses modais tiveram, contara com o valor FOB, onde teremos que também assosiar ao SH4.
 
-# Funcionalidades e Registros das Sprints
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 ## Tecnologias Utilizadas
 
@@ -156,6 +151,11 @@ Requisitos não funcionais:
 - [ ] Identificar o principal destino dos produtos;
 - [ ] Desenvolver a Geografia do Fluxo de carga para importação e exportação com Dashboard interativo;
 
+# Funcionalidades e Registros das Sprints
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
 
 # Competências desenvolvidas
