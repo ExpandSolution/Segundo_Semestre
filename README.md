@@ -153,9 +153,16 @@ Requisitos não funcionais:
 
 # Funcionalidades e Registros das Sprints
 
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
+## GitHub
+
+https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/fb63d564-f0c0-4dce-9846-debfbc5523a3
+
+## Jira-Software
+
+https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/197767e2-d8dc-4111-9032-84043c562a6d
+
+
+
 
 
 # Competências desenvolvidas
