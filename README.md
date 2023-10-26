@@ -56,6 +56,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 * [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
 * Power BI;
+* Figma
   
   
 # Cronograma das Sprints
