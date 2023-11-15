@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Relatório|
 |Kick Off | 06/09/2023 | Concluído|  | 
 |00| 25/09/2023 | Concluído|  | 
 |01| 25/10/2023 | Concluído| [Relatório Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
-|02| 08/11/2023 | a fazer| | 
+|02| 16/11/2023 | Concluido| | [Relatório Sprint 2]()
 |03| 29/11/2023 | a fazer|  | 
 |Feira de Soluções|12/12/2023 |a fazer | | 
 
@@ -51,12 +51,12 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Tecnologias Utilizadas
 
 
-* [5W2H](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Documentos/5W2H%20-%20Sprint%201.md)
+* [5W2H]()
 * [GitHub](https://github.com/ExpandSolution)
 * [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
 * Power BI;
-* Figma
+* Figma;
   
   
 # Cronograma das Sprints
@@ -70,10 +70,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/8ac0607a-49b1-4fcd-8a9c-dc800878bdaa)
+![IMG-20231014-WA0019]()
 
 
-![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/95b6b37d-a797-4821-89d5-27916c32f96a)
+![IMG-20231014-WA0018]()
 
 </div>
 
@@ -88,11 +88,11 @@ Requisitos funcionais:
 Requisitos não funcionais:
 
 - Metodologias Ágil
-- Excel / Jira / 5W2H  / Power BI
+- Excel / Jira / 5W2H  / Power BI  /  Figma
   
 
 # Burndown 
-![Burndown](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/0db00cf9-54d6-44eb-ba82-6d2bb450a0d8)
+![Burndown]()
 
 
 
@@ -124,21 +124,18 @@ Requisitos não funcionais:
 - [x] Identificar os modais utilizados nos trâmites internacionais de movimento de cargas;
       
 ## Sprint 2. Implementação
-- [ ] Documentação Sprint 2;
-- [ ] Relatório;
-- [ ] 5W2H;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Protótipo de dashboard da Sprint 2;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Fazer a verificação de um produto com a importação e exportação, verificar qual a frequência de movimentação desse produto, com o estado selecionado (SP), determinar origem, via e URF, com eles no formato de código;
-- [ ] Escolher um município para ter um foco relacionado as informações de importação e exportação, com o SH4;
-- [ ] Identificar oportunidades para melhorias no município, nas atividades de exportação e importação;
-- [ ] Relacionar dados de movimentação de carga da cidade de São José dos Campos;
-- [ ] Relacionar dados de movimentação de carga da cidade de São Paulo;
-- [ ] Relacionar dados de movimentação de carga da cidade de Jundiaí;
-- [ ] Relacionar dados de movimentação de carga da cidade de Campinas;
-- [ ] Relacionar dados de movimentação de carga da cidade de Paulínia;
+- [x] Documentação Sprint 2;
+- [x] Relatório;
+- [x] 5W2H;
+- [x] Gráfico Burndown;
+- [x] Divisão de Atividades no Jira;
+- [x] Protótipo de dashboard da Sprint 2;
+- [x] Monitoramento e ajustes dos dados;
+- [x] Relacionar dados de importação e exportação na cidade de Ribeirão Preto;
+- [x] Relacionar dados de importação e exportação na cidade de São José dos Campos;
+- [x] Relacionar dados de importação e exportação na cidade de Campinas;
+- [x] Probabilidade dos Municípios (Campinas, Ribeirão Preto e São José dos Campos);
+- [x] Protótipo de Dashboard (Tela 2 POWER BI);
       
 ## Sprint 3. Operacionalização
 - [ ] Documentação Sprint 3;
