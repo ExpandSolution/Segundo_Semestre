@@ -70,10 +70,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![IMG-20231014-WA0019]()
+![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/a749aaa9-51e8-43aa-9545-6149eb4cd5ec)
 
 
-![IMG-20231014-WA0018]()
+![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/b00c579b-c2de-43ab-a914-96ec989e2f91)
 
 </div>
 
@@ -134,7 +134,7 @@ Requisitos não funcionais:
 - [x] Relacionar dados de importação e exportação na cidade de Ribeirão Preto;
 - [x] Relacionar dados de importação e exportação na cidade de São José dos Campos;
 - [x] Relacionar dados de importação e exportação na cidade de Campinas;
-- [x] Probabilidade dos Municípios (Campinas, Ribeirão Preto e São José dos Campos);
+- [ ] Probabilidade dos Municípios (Campinas, Ribeirão Preto e São José dos Campos);
 - [x] Protótipo de Dashboard (Tela 2 POWER BI);
       
 ## Sprint 3. Operacionalização
