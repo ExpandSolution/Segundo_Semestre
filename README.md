@@ -51,7 +51,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Tecnologias Utilizadas
 
 
-* [5W2H]()
+* 5W2H;
 * [GitHub](https://github.com/ExpandSolution)
 * [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
@@ -70,10 +70,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/a749aaa9-51e8-43aa-9545-6149eb4cd5ec)
+![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/54ae5ba1-f80d-4d92-b959-60abb79b4673)
 
 
-![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/b00c579b-c2de-43ab-a914-96ec989e2f91)
+![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9cb74578-200b-44e4-8521-48c6a58fc4e9)
 
 </div>
 
@@ -92,7 +92,7 @@ Requisitos não funcionais:
   
 
 # Burndown 
-![Burndown]()
+![Burndown](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/24f29325-60e1-4015-9196-5e1ba9be360a)
 
 
 
