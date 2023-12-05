@@ -73,7 +73,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/54ae5ba1-f80d-4d92-b959-60abb79b4673)
 
 
-![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/57eaff31-8e3c-45f4-b22e-5f34a351e939)88
+![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/57eaff31-8e3c-45f4-b22e-5f34a351e939)
 
 </div>
 
