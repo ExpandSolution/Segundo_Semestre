@@ -22,7 +22,7 @@ Sprint | Previsão | Status| Relatório|
 |Kick Off | 06/09/2023 | Concluído|  | 
 |00| 25/09/2023 | Concluído|  | 
 |01| 25/10/2023 | Concluído| [Relatório Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
-|02| 16/11/2023 | Concluido| | [Relatório Sprint 2](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%202/Documentos/Relat%C3%B3rio%20Sprint%202.pdf)
+|02| 16/11/2023 | Concluido| [Relatório Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%202/Documentos/Relat%C3%B3rio%20Sprint%202.pdf) |
 |03| 29/11/2023 | a fazer|  | 
 |Feira de Soluções|12/12/2023 |a fazer | | 
 
