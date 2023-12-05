@@ -145,9 +145,7 @@ Requisitos não funcionais:
 - [x] Divisão de Atividades no Jira;
 - [x] Protótipo de dashboard da Sprint 3;
 - [x] Monitoramento e ajustes dos dados;
-- [x] Power BI que detalhe o possível Fluxo Logístico de Exportação de uma carga originária de SJC;
-- [x] Identificar o principal destino dos produtos;
-- [ ] Desenvolver a Geografia do Fluxo de carga para importação e exportação com Dashboard interativo;
+- [x] Probabilidade de São José dos Campos, Guarulhos e Campinas;
 
 # Funcionalidades e Registros das Sprints
 
