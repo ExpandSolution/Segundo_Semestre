@@ -22,8 +22,8 @@ Sprint | Previsão | Status| Relatório|
 |Kick Off | 06/09/2023 | Concluído|  | 
 |00| 25/09/2023 | Concluído|  | 
 |01| 25/10/2023 | Concluído| [Relatório Sprint 1](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%201/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
-|02| 16/11/2023 | Concluido| | [Relatório Sprint 2]()
-|03| 29/11/2023 | a fazer|  | 
+|02| 16/11/2023 | Concluido| [Relatório Sprint 2](https://github.com/ExpandSolution/Segundo_Semestre/blob/main/Sprint%202/Documentos/Relat%C3%B3rio%20Sprint%202.pdf) |
+|03| 06/12/2023 | Concluído|  | 
 |Feira de Soluções|12/12/2023 |a fazer | | 
 
 
@@ -51,7 +51,7 @@ O Projeto tem como objetivo, identificar os modais utilizados nos trâmites inte
 ## Tecnologias Utilizadas
 
 
-* 5W2H;
+* [5W2H]()
 * [GitHub](https://github.com/ExpandSolution)
 * [Jira Software](https://expandsolutions2.atlassian.net/jira/software/projects/EXPAND/boards/1)
 * [Scrum](https://www.atlassian.com/br/agile/scrum)
@@ -73,7 +73,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![IMG-20231014-WA0019](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/54ae5ba1-f80d-4d92-b959-60abb79b4673)
 
 
-![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/9cb74578-200b-44e4-8521-48c6a58fc4e9)
+![IMG-20231014-WA0018](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/57eaff31-8e3c-45f4-b22e-5f34a351e939)88
 
 </div>
 
@@ -92,7 +92,7 @@ Requisitos não funcionais:
   
 
 # Burndown 
-![Burndown](https://github.com/ExpandSolution/Segundo_Semestre/assets/135040407/24f29325-60e1-4015-9196-5e1ba9be360a)
+![Burndown]()
 
 
 
@@ -138,16 +138,14 @@ Requisitos não funcionais:
 - [x] Protótipo de Dashboard (Tela 2 POWER BI);
       
 ## Sprint 3. Operacionalização
-- [ ] Documentação Sprint 3;
-- [ ] Relatório;
-- [ ] 5W2H;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Protótipo de dashboard da Sprint 3;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Power BI que detalhe o possível Fluxo Logístico de Exportação de uma carga originária de SJC;
-- [ ] Identificar o principal destino dos produtos;
-- [ ] Desenvolver a Geografia do Fluxo de carga para importação e exportação com Dashboard interativo;
+- [x] Documentação Sprint 3;
+- [x] Relatório;
+- [x] 5W2H;
+- [x] Gráfico Burndown;
+- [x] Divisão de Atividades no Jira;
+- [x] Protótipo de dashboard da Sprint 3;
+- [x] Monitoramento e ajustes dos dados;
+- [x] Probabilidade de São José dos Campos, Guarulhos e Campinas;
 
 # Funcionalidades e Registros das Sprints
 
